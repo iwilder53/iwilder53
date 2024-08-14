@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yash Bagaria, a front-end developer also an ex firmware engineer
-- 👀 I’m interested in all thing tech especially programming things from MCU's to websites to mobile apps
-- 🌱 I’m currently learning Computer Science
-- 📫 You can reach me at yashbgdi@gmail.com
+- 👋 Hi, I’m Yash Bagaria, A Firmware Engineer who works on flutter apps and Go backends due to lack of embedded jobs in my region
+- 👀 I’m interested in building stand alone industrial systems
+- 🌱 I’m have a masters in Computer Science
+- 📫 You can reach me at yashbgdi@gmail.com or visit my ![site](https://yash.bagarias.com)
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <!---
