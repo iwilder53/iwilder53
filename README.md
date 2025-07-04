@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yash Bagaria, A Firmware Engineer who works on flutter apps and Go backends due to lack of embedded jobs in my region
+- 👋 Hi, I’m Yash Bagaria, I work on everything from standalone embedded systems to cloud infrastructure
 - 👀 I’m interested in building stand alone systems
-- 🌱 I have a masters in Computer Science 
+- 🌱 Student of the year at GH Raisoni CCST
 - 📫 You can reach me at yashbgdi@gmail.com or visit https://yash.bagarias.com
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
